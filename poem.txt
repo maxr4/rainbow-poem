@@ -10,3 +10,6 @@ black
 white
 grey
 unicorns
+magenta
+burgundy
+aqua blue
