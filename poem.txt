@@ -6,3 +6,10 @@ blue
 purple
 brown
 pink
+black
+white
+grey
+unicorns
+magenta
+burgundy
+aqua blue
